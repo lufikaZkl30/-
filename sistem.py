@@ -11,3 +11,5 @@ for i in text:
 
 print("Correct Spelling is: ") 
 print(correctText) 
+
+# pyscript.write("mytext coba", "external ehek berhasil")
