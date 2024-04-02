@@ -18,7 +18,3 @@ if (misspelledWords.length > 0) {
 } else {
     console.log("No misspelled words found in the sentence.");
 }
-
-
-
-
