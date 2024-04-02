@@ -1,0 +1,18 @@
+* {
+    margin: 20px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+span {
+    text-align: center;
+    font-size: 30px;
+    color: brown;
+}
+
+h2{
+    justify-content: first baseline;
+    display: flex;
+    margin-bottom: 200px;
+    background-color: aliceblue;
+}
